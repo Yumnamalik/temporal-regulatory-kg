@@ -349,7 +349,7 @@ temporal-regulatory-kg/
 └── docs/
     ├── supervisor-meetings/   # meeting notes and index
     ├── team/                  # team information
-    └── proposal/              # project proposal (coming soon)
+    └── proposal/              # project proposal 
 ```
 
 Planned folders as the project grows:
